@@ -4,6 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
+This app is developed with the help of given plugins
+1. Provider
+2. firebaseAuth
+3.FirebaseCore
+4.cloudFirestore
+5.GoogleSignIn
+
+In this User will access the app through google login.
+Take an Assessment that has 5 MCQ questions which is populated from firebase. 
+After completion of an assessment user get score on HomeScreen.
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
